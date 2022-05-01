@@ -1,0 +1,24 @@
+*{
+	box-sizing:border-box ;
+}
+.HEADER{
+	color: white;
+	background-color: seagreen;
+
+}
+.main{
+	background-color: black;
+}
+h2{
+	color: white;
+}
+th{
+	background-color: seagreen;
+}
+tr{
+	background-color: white;
+}
+table{
+	width: 60%;
+	max-height: auto;
+}

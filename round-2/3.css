@@ -1,0 +1,38 @@
+h2{
+	color: white;
+	background-color: black;
+	text-align: center;
+	font-size: 30px;
+}
+.main{
+
+
+}
+.CARD{
+	
+	margin:35px;
+	background-color: white;
+
+}
+.CONTAINED{
+	width: 80%;
+	text-align: left;
+	font-size: 30px;
+	margin-left: 10%;
+}
+.gift{
+	color: deeppink;
+}
+input{
+	font-size: 30px;
+	margin-right: 10%;
+	background-color: orange;
+}
+.btn{
+	margin-top: -30px;
+	margin-bottom: 90px;
+	text-align: right;
+}
+table{
+	margin: 10% 20%;
+}
